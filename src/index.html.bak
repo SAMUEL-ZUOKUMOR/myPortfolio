@@ -256,37 +256,6 @@
             </div>
           </div>
           <!-- /END of Project 3 -->
-		  
-		  <!-- Notice: each .row is a project -->
-          <div class="row">
-            <div class="col-lg-4 col-sm-12">
-              <div class="project-wrapper__text load-hidden">
-                <h3 class="project-wrapper__text-title">My-NFTs</h3>
-                <div>
-                  <p class="mb-4">
-                    A collection of non-fungible tokens
-                  </p>
-                </div>
-                <a
-                  rel="noreferrer"
-                  target="_blank"
-                  class="cta-btn cta-btn--hero"
-                  href="https://opensea.io/collection/thepicklesinvasion"
-                >
-                  See Live
-                </a>
-                <a
-                  rel="noreferrer"
-                  target="_blank"
-                  class="cta-btn text-color-main"
-                  href="https://github.com/SAMUEL-ZUOKUMOR/My-NFTs"
-                >
-                  Source Code
-                </a>
-              </div>
-            </div>
-          </div>
-          <!-- /END of Project 4 -->
         </div>
       </div>
     </section>
